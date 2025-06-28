@@ -2,6 +2,10 @@
 
 This demo is a simple Python application using the [BLIP (Bootstrapped Language Image Pretraining)](https://huggingface.co/Salesforce/blip-image-captioning-base) multimodal model for image captioning and visual question answering (VQA). The app takes an image as input and generates a relevant caption or answers a question about the image.
 
+## Screenshot of working
+
+<img src="Screenshot.png" alt="screenshot image" width="350"/>
+
 ---
 
 ## How the Model Works
